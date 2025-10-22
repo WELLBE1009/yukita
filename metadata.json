@@ -1,0 +1,4 @@
+{
+  "name": "Sales Comparison Dashboard",
+  "description": "A dashboard to compare daily and periodic sales data for multiple stores against the previous year's performance, fetched from Google Sheets."
+}
